@@ -1,0 +1,28 @@
+name: edaj
+favicon: null
+layout_spectrum: 0.33504665340296924
+typography_spectrum: 0.7231145042460412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8378434998448938
+  lightness: 0.2664363745134324
+  saturation: 0.03041072003543377
+  rhythmicContrast: 0.1043133216444403
+purpose: []
